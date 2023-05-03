@@ -49,4 +49,9 @@ To run this, you have follow below steps
 - Then run this command in terminal using command `python start.py`
 - click on the local host
 
-## Versioning
+
+![image](https://user-images.githubusercontent.com/92711889/235902800-790d22aa-a08a-4f9b-ac92-ad9012b83205.png)
+
+<p align="center">
+<img src="https://vivifyassets.s3.ap-south-1.amazonaws.com/cropped-vivify_login.png" margin_left="100"/>
+</p>
