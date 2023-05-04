@@ -1,6 +1,9 @@
 <img align="right" width="33%" src="https://vivifyassets.s3.ap-south-1.amazonaws.com/lifeeazy-logo1.png">
 
-<img width="11%" src = "https://user-images.githubusercontent.com/92711889/235904644-805ecb80-2adc-4e85-95fc-6f9fdaa4fd44.png"><img  width="15%" src = "https://user-images.githubusercontent.com/92718918/225281321-22416455-e553-4981-a355-b59d2750331c.jpg">
+<img width= "27%" src = "https://user-images.githubusercontent.com/92711889/236189037-7c49f76b-cb79-468d-a88c-1909c2e1dda4.png"><img width= "15%" src = "https://user-images.githubusercontent.com/92711889/236189092-ee99db34-c5ea-47ed-91c6-547c73904bf9.png" style="margin-left: 20px">
+
+
+
 
 
 <h1 align="center">SQL to Mongodb <br> Data transfer</h1>
