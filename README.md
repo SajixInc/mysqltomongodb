@@ -11,18 +11,15 @@ To convert data from sql to MongoDB database using Flask, we can use the PyMongo
 
 ## Use Cases
 
- here are a few use cases where you may want to convert data from SQL instance to MongoDB Instance using Flask:
-- from Server Sql to Local MongoDB
-- from Local sql to Server MongoDB
-- from Server sql to Server MongoDB
+  By using this case you may want to convert data from SQL instance to MongoDB instance using Flask:
+    
+- from Local sql to Local MongoDB
 
-In all of these use cases, Flask and the pymongo library provide a powerful and flexible way to manipulate Sql data and transfer it between instances.
+  In these use case, Flask and the pymongo library provide a powerful and flexible way to manipulate Sql data and transfer it between instances.
 
 
-## Summary
- some cases we have the data in server, but not in the local <br />in that 
- time it is very useful to take the data from <br /> server 
- database into local database <br /> Technologies we are using here Python,Flask,HTML
+
+
 
 
 # MySQL to Mongodb
