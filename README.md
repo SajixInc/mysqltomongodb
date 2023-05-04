@@ -48,7 +48,8 @@ To run this, you have follow below steps
 - click on the local host
 
 
-![image](https://user-images.githubusercontent.com/92711889/235902800-790d22aa-a08a-4f9b-ac92-ad9012b83205.png)
+![image](https://user-images.githubusercontent.com/92711889/236173217-f3b3ab88-694b-4776-90e7-887f13f89336.png)
+
 
 <p align="center">
 <img src="https://vivifyassets.s3.ap-south-1.amazonaws.com/cropped-vivify_login.png" margin_left="100"/>
